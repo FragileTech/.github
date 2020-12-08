@@ -1,0 +1,8 @@
+{
+    "name": "Lint and pytest",
+    "description": "Template for applying black, flakehell and pytest and generating a coverage report.",
+    "iconName": "python",
+    "categories": [
+        "Python"
+    ]
+}
